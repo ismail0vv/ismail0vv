@@ -37,7 +37,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 <a herf="https://docs.aiogram.dev" target = "_blank"><img src="https://docs.aiogram.dev/en/latest/_static/logo.png" alt="aiogram" height="40" width="40" /> </a>
-<a href="https://www.django-rest-framework.org" target="_blank"><img src="https://www.django-rest-framework.org/img/logo.png" alt="Django REST" height="40" width="40" /></a>
+<a href="https://www.django-rest-framework.org" target="_blank"><img src="https://storage.caktusgroup.com/media/blog-images/drf-logo2.png" alt="Django REST" height="40" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismail0vv&show_icons=true&locale=en&layout=compact" alt="ismail0vv" /></p>
