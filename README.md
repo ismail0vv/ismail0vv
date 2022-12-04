@@ -22,6 +22,8 @@
 <a href="https://codeforces.com/profile/by_kutbilim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="by_kutbilim" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ismail0vv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ismail0vv" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/by_kutbilim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="by_kutbilim" height="30" width="40" /></a>
+<a herf="https://docs.aiogram.dev" target = "blank"><img align="center" src="https://docs.aiogram.dev/en/latest/_static/logo.png" alt="aiogram" height="30" width="30" /> </a>
+<a href="https://www.django-rest-framework.org" target="blank"><img align="center" src="https://www.django-rest-framework.org/img/logo.png" alt="Django REST" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
