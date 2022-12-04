@@ -1,4 +1,4 @@
-<h3 align="center">A passionate backend Developer from Kyrguzstan</h3>
+<h3 align="center">A passionate backend Developer from Kyrgyzstan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismail0vv&label=Profile%20views&color=0e75b6&style=flat" alt="ismail0vv" /> </p>
 
