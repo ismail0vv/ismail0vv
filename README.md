@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ismail0vv" alt="ismail0vv" /></a> </p>
 
-- 🔭 I’m currently working on [Graduation Project (Pianta-online flower shop))](https://github.com/ismail0vv/PiantaFlowerShop_DjangoRestAPI)
+- 🔭 I’m currently working on [MangoRead](https://gitlab.com/ismail0vv/mangoread_backend)
 
 - 🌱 I’m currently learning **django REST, Docker**
 
-- 👨‍💻 All of my projects are available at [my repos](my repos)
+- 👨‍💻 All of my projects are available at [github](https://github.com/ismail0vv?tab=repositories) and [gitlab](https://gitlab.com/users/ismail0vv/projects)
 
 - 📫 How to reach me **asylismailov05@gmail.com**
 
