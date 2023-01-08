@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [MangoRead](https://gitlab.com/ismail0vv/mangoread_backend)<br>👯 I’m looking to collaborate on Django project<br>🤝 I’m looking for help with Django-REST<br>🌱 I’m currently learning Django, REST, aiogram, Docker, Git<br>💬 Ask me about anything on [instagram](https://www.instagram.com/ismail.0vv/)<br>⚡ Fun fact I have for about 7 medals on Olympiads in Informatics
+🔭 I’m currently working on [MangoRead](https://gitlab.com/ismail0vv/mangoread_backend)<br>👯 I’m looking to collaborate on Django project<br>🤝 I’m looking for help with Django-REST<br>🌱 I’m currently learning Django, REST, aiogram, Docker, Git, JavaScript, Node.js, Express.js<br>💬 Ask me about anything on [instagram](https://www.instagram.com/ismail.0vv/)<br>⚡ Fun fact I have for about 7 medals on Olympiads in Informatics
 
 
 ## 🌐 Socials:
